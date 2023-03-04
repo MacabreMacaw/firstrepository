@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 import csv
-import numpy as np
+# import numpy as np
 
-txt = open("textsa.txt")
+txt = open("sample.txt")
 soup = BeautifulSoup(txt, 'lxml')
 listings = soup.find_all("li", {"class":"list-item list_rows"})    
 txt.close()
@@ -14,7 +14,7 @@ for listing in listings:
     print(listing)
     h3 = listing.find_all("a")
     for h in h3:
-        if h.text!='' and h.text!='Remove from Saved':
+        if h.text!='' and h.text!='Application submitted':
             lst.append(h.text)
             lst.append(h.get("href"))
     lsts.append(lst)
