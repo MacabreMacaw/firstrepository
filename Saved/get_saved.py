@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import csv
 import numpy as np
 
-txt = open("textsa.txt")
+txt = open("source.txt")
 soup = BeautifulSoup(txt, 'lxml')
 listings = soup.find_all("li", {"class":"list-item list_rows"})    
 txt.close()
@@ -21,7 +21,7 @@ for listing in listings:
 
 print(lsts)
 
-with open('uhm.csv', 'w', newline='') as f:
+with open('saved.csv', 'w', newline='') as f:
 
     write = csv.writer(f)
     write.writerows(lsts)

@@ -22,7 +22,7 @@ for listing in listings:
 
 print(lsts)
 
-with open('applied_at.csv', 'w', newline='') as f:
+with open('applied.csv', 'w', newline='') as f:
 
     write = csv.writer(f)
     write.writerows(lsts)
