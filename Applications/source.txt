@@ -1,0 +1,783 @@
+
+<ul class=" list_job_applications">
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+								<div class="avatar avatar-square monogram">
+            B
+    </div>			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/a22ebff7da26ae9178fa1d0c4f64c0a3">Computational Biology Co-op </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/62897ac5f71c2e2d842f8ac49a7d29a4/overview">BioNTech US </a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 28, 2023, 12:27 AM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=e35c3a4a94831399417c253053147b07" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=69eae18d50306b944e11f8b82a0dc5b2" title="Transcript" alt="Transcript" data-icon="page_view" data-primaryaction="1" target="_blank">View Transcript</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('31ae334b5f3b721ec70a892f3227da09')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=5631b67ee9918c2b7116fb5562a92c5d&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/29f/29fa4cfa3a138ba263d92f50eec4281b.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230304T050005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=81e4391ac68cd23ab91bedef501d0df0705813171f91bbb1e80685237e80cc8e" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/dbd75344d8d92c7a44a3bc107111282d">Computer vision engineer</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/5631b67ee9918c2b7116fb5562a92c5d/overview">Phuc Labs</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 28, 2023, 12:27 AM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=efc1c4ad68f34559562090fb18cbd1d3" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=6be450e33945cc878fa544a64ff67342" title="Phuc Labs" alt="Phuc Labs" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+								<div class="avatar avatar-square monogram">
+            A
+    </div>			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/ef8a5c97acbcffa58f7d527d8f1f9049">Machine Learning Internship (remote) </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/9ea1bf59014dc0e2b022d9693acaf9d6/overview">Auxi</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 28, 2023, 12:00 AM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=1e0fdea12339ccf28b6ff03ad1ae04dd" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('acbb115cc26f19635b91ee17d17de15d')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=5d48364b95bc4f6f378e153e9b8f0fc2&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/a56/a56639422175615eabf73c8be5b6411e.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230304T000927Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2badc62f87b7add1faf18324f333c2056cda703f3b9a7f4744221fefadf3b143" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/d1cac363b2b2476283bf98abb28055a9">Co-op: Computational Biology, Therapeutics R&D Ideation</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/5d48364b95bc4f6f378e153e9b8f0fc2/overview">Cellarity</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 10:53 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=f321634fb5b52161135cb277512dd79a" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('5c09018322e26ab2794e0cca8447a050')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=174b4e4032780150205c9326bb3cd83e&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/b7d/b7dbc1ce107b9826e7953b6539d7b472.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230304T022541Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=ad3801612dbaf6b7376a9a0a983ff84b14661975baf089278718de904d2b0384" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/58402ca40a7c835bf82c7561eb55647d">Targeted Protein Degradation Data Science Co-Op </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/174b4e4032780150205c9326bb3cd83e/overview">UCB Biosciences</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 10:41 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=61648e8fac336548958d4d05bad188ac" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=7b2d6f6b0ba17a82391f0905b0d54491" title="UCB Biosciences Cover Letter" alt="UCB Biosciences Cover Letter" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('8e852089fbb05b5d857160505cbc69af')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+								<div class="avatar avatar-square monogram">
+            P
+    </div>			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/9905ab86b54afbb7c87af2e33745c9e5?expired=1">Intern - AI/DL Medical Image Analysis - Cambridge, MA </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/0a8882f54e69b7bfa77e97106ca7ada4/overview">Philips North America</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 10:02 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=c994144f5aaeac8e80fed0ea1730dd46" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=1b5680cc17152ebeb3c63f94195c5c62" title="Philips Cover Letter" alt="Philips Cover Letter" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=5ace6921328f8a10c91e1076462aadaa&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/8d9/8d93d24eaea308d3397e128824ec7702.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T165903Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5ab122843f733cbb8a1cf344a74fef439607c204ff2c158163e7f14c42f047b7" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/26bd12d510fbe8c1daa41392b3d5e1d6">Biotherapeutic Engineering Co-op, Takeda Pharmaceuticals</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/5ace6921328f8a10c91e1076462aadaa/overview">Takeda Pharmaceutical Company Limited</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 8:46 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=9db0e9cab30049749242877a3884d5de" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('5ee3dc7cc304a119adbceefcf6aefe1c')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=b0eaab7cdf8f07f6e0463c73078cb0a5&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/04d/04d2440583b2a2e758e76a71c83cbdb1.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230304T044758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=34243a6c9d497c2f88c0028db929d6a2ef8c7c6d372f3fb86603d69335bbd77e" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/fac85beb02760b6582fa4c5e71d0ee1c">Machine Learning and Computational Biology</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/b0eaab7cdf8f07f6e0463c73078cb0a5/overview">Seismic Therapeutics</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 8:46 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=5a6101665579cd6ea4978e22bcde9d2e" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=7fc8610d179177e8bc8286c73b3ff903" title="Seismic Cover Letter" alt="Seismic Cover Letter" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('5163d536a4de3850f09aa115dbbbc319')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=4c8003d660f735b4b246896c73f3b8da&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/de6/de6104563917badbac52a6e52ccde5fe.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T205333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=3cc416cdbfe57e7d2967bce4e9f159b31f9f021b4f84549727abb6964a07de13" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/883b49f14ced6252523bfc0f91f1b31b">Machine Intelligence Intern</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/4c8003d660f735b4b246896c73f3b8da/overview">Draper</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 5:32 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=ad79906b2110d390719aa61d6f1c3411" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=a83e06a270ea17565f3d03c26a2f3707" title="Transcript" alt="Transcript" data-icon="page_view" data-primaryaction="1" target="_blank">View Transcript</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('e8d8ef0d2e896a236c664d0ce2306a4a')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=d04f2ff439c0a53d4189187712ce2a01&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/cee/cee3673d5d0b0adee3dcecc9a2ccd72d.jfif?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T060522Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=f4e8a81736ed2d45cd11458e3815953e6ea6829baa86777fe722ae0cd7e849f2" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/ca403cd0d8355a423a8e28086ed03b34">Co-op, Data Analytics & Insights</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/d04f2ff439c0a53d4189187712ce2a01/overview">Fidelity Investments</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 5:21 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=a40d32ace6d5285846ba81a8b036aca4" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('8a8f280a026a194b8ecb4d10c276a7fb')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=d86375b92b0be9432e1a13c1cc91ff12&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/75e/75e0406cb45559d3a21cbba86119ce34.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T172117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=1791941cb93e468ffcf5192e3c129ada13a1e2ac759b043fcc3510732bb599e8" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/f0467458efb587bd4c93320d883011ec">Data Scientist Co-op</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/d86375b92b0be9432e1a13c1cc91ff12/overview">ASICS Digital </a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 5:21 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=bdbc6e8f6fe32efebbf538448df217c7" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('1de02d50cdd036e0da646402819f9f33')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+								<div class="avatar avatar-square monogram">
+            T
+    </div>			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/80d6f3308e989c377916840a6bc23bc1">Research Data Analyst Student Intern, NEU - AD</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/5f69af4905cd364c1bde8efe59927433/overview">The Jackson Laboratory</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 27, 2023, 4:50 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=43c27e6fea62d6ba0b7b151300baad7a" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=621ad5744cf541dcfa831122fdd295de" title="Jackson Laboratory Cover Letter" alt="Jackson Laboratory Cover Letter" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('bedb41b0e3ee857acc167fe69e5c0034')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+								<div class="avatar avatar-square monogram">
+            D
+    </div>			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/f06c889d63c20d3748e970a798e75130">Internship: Data Driven Chemistry</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/a93998f800de61e49e07ab595fd5c6e8/overview">Dassault Systemes Americas Corporation</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 26, 2023, 9:31 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=d6a5162de6eac84820514bfc8acdfe42" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('23b9b773e10afc04eac5b451a6769658')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=57b256b1bdef830fd655fd4ad3bb2e2d&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/19d/19dbedf940808cab898031dae16facc8.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T163833Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=fe3d1e80effd0a9458eec8817461519d2c24faf6d8e16fc16c1e2913c44b3338" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/84942f12e3e9f43b8dcc31b5ee0d9f7a">Co-Op, Bioinformatics </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/57b256b1bdef830fd655fd4ad3bb2e2d/overview">Omega Therapeutics</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 26, 2023, 9:29 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=6527349f0a836ccc400cf78a4ebe930b" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('71319a473107a464c4d83ba519079d07')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=6620d515754043d90188e03bacf7d60c&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/4ec/4ec98e4aba7f52aa1eb62ada2181e183.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T194200Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=5b3dfa51c0ca432daa6ada378ba7506436d5515d6997b836df7059e98a8689f4" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/a5c5ba18194309c40ac49cf69cca6ff9">Data Analytics Intern</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/6620d515754043d90188e03bacf7d60c/overview">Cambridge Mobile Telematics</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 26, 2023, 9:28 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=bd4fc119f673a7dbe230ce3e1c419069" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('b106b215dc59639925c7f5b9fbbe81b4')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=59fbb17304fae17e86ebdade754f2def&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/805/805723f35622054dded19d6509a657e0.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T223326Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=545aa47e3bb0c25f66e530b7c16d1321f6be473899b4f747d726720e0a8cd20a" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/6788b4f68aadff5e1ffcb362453c1346">Bioinformatics Co-Op</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/59fbb17304fae17e86ebdade754f2def/overview">Spectrus LLC</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 26, 2023, 9:27 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=d52e4755fcea674a30ebe719634d1f27" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul><ul><li><a href="/utils/view.php?id=257ef189d63724fd2557d24064e465c6" title="Cover Letter" alt="Cover Letter" data-icon="page_view" data-primaryaction="1" target="_blank">View Cover Letter</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('2a7a085c28d9808f4faba0bde92fe333')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=430f4b6f0905e4a856fd977bdf78ab2d&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/cd5/cd5207ccde8212048ff2413015e60058.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T212226Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=166404069261bcb8470dc7664861f9692969e5a1c8af645fbe8ccde16901963a" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/e85af79d46693c19d92a48b0931c5f46">BIOTECH CO-OP STUDENT: Machine Learning</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/430f4b6f0905e4a856fd977bdf78ab2d/overview">Skyhawk Therapeutics</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 26, 2023, 9:16 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=9ec6d4448237be91b4c62934f4d878ad" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('e320c5ebd1d8d145410bcc5f5b321491')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=8256725e03feb57970d9e38c3257e725&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/b45/b45c6b02bb9fc1b04bf0a3241909d9f6.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230304T020835Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=23601a89f73f048d1fd96043c39f8334073a7becbe4993f07d41ac626bce0887" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/2b13d66466dc60a0fefb01f2fd0d9797">Solaria Labs Data Science Co-op (July - December 2023)</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/8256725e03feb57970d9e38c3257e725/overview">Liberty Mutual Insurance</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 23, 2023, 2:03 PM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=10597d2687eb085b1e72f723d5a0d7a4" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('f1b30c7882911f213c4c2735f65c4945')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=c39c5b6088fb66bfaaba7445d2e637be&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/3eb/3ebc301f80d9b770cf9b34890fa6f130.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T230456Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=7703ef9a7a04ace17aa8364d0da2b12ca5e030dd794cb98e9d914033c19f036a" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/2f55ad319f6c7663aeda99d175c0b3c4">Software Engineer</a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/c39c5b6088fb66bfaaba7445d2e637be/overview">Phast Diagnostics</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 21, 2023, 10:19 AM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=4092dffac918de1fc327f34c0dfcc2cc" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('39c5fbd228c7d99b1164be2813b75766')">Withdraw</a></div>														</div>		
+	</div>
+</div>
+							</div> <!-- /.col-2 -->
+					</li><!-- /.row -->
+			<li class="list-item list_rows">
+																				
+	
+	<div class="list-item-logo">
+					<div class="avatar avatar-square">
+									<a href="?s=employers&mode=profile&id=f1d84e00830e850e1b33b979c3eb7628&ss=applied"><img src="https://s3.amazonaws.com/symp.csm.usprod/northeastern/files/5f3/5f3decae842717df3999394b51d0a7f3.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T102644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=38223f85a21fa6ec84dc3bdbd27e422c4a79e7df13c6c7323a7e88bbf80654e3" border="0" alt="Logo"></a>
+							</div>
+			</div>
+						<div class="list-item-body">
+									<div class="list-item-title" role="heading">
+																																																							<a href="https://northeastern-csm.symplicity.com/students/app/jobs/detail/a1f6c918fd4901893d06b7fb59c21cd1">Technology Co-op - 2023 Fall JJT Co-op </a>
+																										</div>
+													<div class="list-item-subtitle">
+													<p><a href="https://northeastern-csm.symplicity.com/students/app/employers/f1d84e00830e850e1b33b979c3eb7628/overview">Johnson & Johnson</a></p>
+											</div>
+																														<div class="list-data-columns">
+																	<span class="">
+																					<span class="fieldlabel">
+												Application submitted
+											</span>
+																				Feb 17, 2023, 10:21 AM
+																					<span class="fieldlabel">
+												
+											</span>
+																			</span>
+															</div>
+													<div class="list-data-columns">
+															</div>
+																							</div>
+						<div class="list-item-actions">
+                											<div class="actions-menu-wrapper actions-menu-right" >
+	<div class="actions-toggle-wrapper">
+		<button type="button" class="actions-toggle" aria-haspopup="true" aria-expanded="false" aria-label="Open Actions Menu" label-closed="Open Actions Menu"  label-opened="Close Actions Menu"></button>
+		<div class="actions-menu" role="menu" aria-label="Actions Menu">
+																		<div class="main-action" role="menuitem"><ul><li><a href="/utils/view.php?id=6d46d455ae51a96a15fd0f7cae1845f0" title="Resume" alt="Resume" data-icon="page_view" data-primaryaction="1" target="_blank">View Resume</a></li></ul></div>																				<div class="main-action" role="menuitem"><a href="javascript:;" data-icon="minus_circle" data-primaryaction="1" onclick="confirmWithdraw('b88bb2b3024b4ccd1d1c8c23fe2d6cc8')">Withdraw</a></div>														</div>		
+	</div>
+</div>
